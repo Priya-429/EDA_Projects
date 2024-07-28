@@ -231,6 +231,4 @@ df.groupby('Product_ID')['Orders'].sum().nlargest(10).sort_values(ascending=Fals
   - Develop targeted marketing strategies for high-spending customer segments.
   - Plan inventory based on the demand for the most selling products.
 
-## Jupyter Notebook
 
-You can access the Jupyter Notebook used for this analysis [here](http://localhost:8888/notebooks/Downloads/Python_Diwali_Sales_Analysis-main/Diwali_Sales_Analysis.ipynb).
